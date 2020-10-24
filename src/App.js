@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import StyledContentLoader from "styled-content-loader";
-import "./app.css";
+import "./App.css";
 
 export default function App() {
     const [personName, setPersonName] = useState(null);
